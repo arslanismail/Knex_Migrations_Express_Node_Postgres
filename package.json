@@ -16,7 +16,7 @@
     "bookshelf-secure-password": "3.1.0",
     "dotenv": "^8.1.0",
     "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "knex": "^0.19.2",
     "node-pre-gyp": "^0.13.0",
     "nodemon": "^1.19.1",
